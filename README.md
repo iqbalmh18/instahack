@@ -18,7 +18,7 @@
 
 installation for **Linux & Termux Android**
 ````bash 
-bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/termuxhackers-id/instahack/main/install.sh)"
+bash -c "$(curl -k -L --max-redirs 15 https://raw.githubusercontent.com/iqbalmh18/instahack/main/install.sh)"
 ````
 running instahack
 ```bash
