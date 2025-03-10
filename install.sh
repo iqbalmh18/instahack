@@ -29,7 +29,7 @@ termux() {
     if [ -d $folder ]; then
         mv $folder "${folder}-backup"
     fi
-    git clone --depth 1 https://github.com/termuxhackers-id/instahack
+    git clone --depth 1 https://github.com/iqbalmh18/instahack
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: upgrading ${Y}pip3.10${W} ..."
     echo
@@ -83,7 +83,7 @@ linux() {
     if [ -d $folder ]; then
         mv $folder "${folder}-backup"
     fi
-    git clone --depth 1 https://github.com/termuxhackers-id/instahack
+    git clone --depth 1 https://github.com/iqbalmh18/instahack
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: install ${Y}pip3.10${W} ..."
     echo
