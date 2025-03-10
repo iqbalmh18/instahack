@@ -1,0 +1,7 @@
+rich
+beaupy
+ihackit
+glickey
+requests
+setuptools
+prompt_toolkit
