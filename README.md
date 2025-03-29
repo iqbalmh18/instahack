@@ -1,4 +1,4 @@
-![instahack](https://img.shields.io/badge/project%20-instahack-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge) ![instahack](https://img.shields.io/badge/version%20-3.0.7-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)
+![instahack](https://img.shields.io/badge/project%20-instahack-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge) ![instahack](https://img.shields.io/badge/version%20-3.0.8-SCRIPT?colorA=181818&colorB=76da18&style=for-the-badge)
 ![instahack](https://i.postimg.cc/6QfvnxyX/IMG-20250310-164633.jpg)
 
 **InstaHack** is a python based tools for hacking instagram accounts using brute force and dictionary attacks with private api from latest apk pinning
