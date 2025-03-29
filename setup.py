@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ihack',
-    version='3.0.7',
+    version='3.0.8',
     author='Moh Iqbal Hidayat (@iqbalmh18)',
     author_email='iqbalmh18.dev@gmail.com',
     description='Python based tools for hacking instagram accounts',
