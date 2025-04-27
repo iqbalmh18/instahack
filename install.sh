@@ -39,6 +39,7 @@ termux() {
     echo
     cd $folder || exit 1
     python3.10 -m pip install -r requirements.txt
+    python3.10 -m pip install --upgrade ihackit
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: install ${Y}ihack${W} with setuptools ..."
     echo
