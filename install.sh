@@ -22,7 +22,7 @@ termux() {
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: installing ${Y}git${W}, ${Y}python3.10${W} ..."
     echo
-    pkg i -y git python3.10 binutils build-essential
+    pkg i -y git jp2a python3.10 binutils build-essential
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: cloning github repository ..."
     echo
@@ -76,7 +76,7 @@ linux() {
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: installing ${Y}git${W}, ${Y}python3.10${W} ..."
     echo
-    sudo apt-get install git -y
+    sudo apt-get install git jp2a -y
     sudo apt-get install python3.10 python3.10-venv python3.10-distutils -y
     echo
     echo -e "${W}[ ${B}INFO${W} ] ${G}INSTAHACK${W}: cloning github repository ..."
